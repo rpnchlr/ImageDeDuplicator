@@ -1,0 +1,5 @@
+output*.txt
+duplicates*.*
+*.venv
+hash_cache.json
+modules/__pycache__/
